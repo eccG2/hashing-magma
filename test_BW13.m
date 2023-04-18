@@ -1,4 +1,4 @@
-/*The code is used to implement hashing to G2 on BW13-P310
+/*The code is used to implement hashing to G2 on BW13-310
 using Method I and II.
 */
 P<u>:=PolynomialRing(RationalField());
