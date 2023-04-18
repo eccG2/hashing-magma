@@ -1,4 +1,4 @@
-/*The code is used to find the target vector h for hashing to G2 on BW13-P310
+/*The code is used to find the target vector h for hashing to G2 on BW13-310
 with Method I and II.
 */
 /*Curve paramters*/
